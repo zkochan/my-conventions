@@ -26,3 +26,17 @@ function getNickname(name) {
 let name = 'Joe';
 let nickname = getNickname(name);
 ```
+
+## Assignment operators
+
+Don't use assignment operators other than `=`.
+
+```js
+//bad
+let x = 5;
+x += 10;
+
+//good
+let fn = (x) => x + 10;
+let x = fn(5);
+```
