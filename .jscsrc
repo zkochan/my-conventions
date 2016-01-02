@@ -7,7 +7,7 @@
   "validateLineBreaks": "LF",
   "validateIndentation": 2,
 
-  "disallowKeywords": ["with"],
+  "disallowKeywords": ["with", "else", "var"],
   "disallowSpacesInsideObjectBrackets": null,
   "disallowImplicitTypeConversion": ["string"],
 
