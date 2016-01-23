@@ -18,6 +18,7 @@
   ],
 
   "disallowPaddingNewLinesAfterUseStrict": true,
+  "disallowPaddingNewlinesInBlocks": true,
   "requireCurlyBraces": [
     "do"
   ],
